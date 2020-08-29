@@ -1,1 +1,1 @@
-# 41X-Fall2020
+# Crowd Monitoring System using IoT principles. 
