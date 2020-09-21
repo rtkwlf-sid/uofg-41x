@@ -11,7 +11,7 @@ export default function Menu() {
           className="brand-image img-circle elevation-3"
           style={{ opacity: ".8" }}
         />
-        <span className="brand-text font-weight-light">AdminLTE 3</span>
+        <span className="brand-text font-weight-light">Crowd Monitoring</span>
       </a>
       {/* Sidebar */}
       <div className="sidebar">
@@ -26,7 +26,7 @@ export default function Menu() {
           </div>
           <div className="info">
             <a href="#" className="d-block">
-              Alexander Pierce
+              Sid Sadhu
             </a>
           </div>
         </div>
@@ -52,19 +52,19 @@ export default function Menu() {
                 <li className="nav-item">
                   <a href="./index.html" className="nav-link">
                     <i className="far fa-circle nav-icon" />
-                    <p>Dashboard v1</p>
+                    <p>Dashboard Style 1</p>
                   </a>
                 </li>
                 <li className="nav-item">
                   <a href="./index2.html" className="nav-link">
                     <i className="far fa-circle nav-icon" />
-                    <p>Dashboard v2</p>
+                    <p>Dashboard Style 2</p>
                   </a>
                 </li>
                 <li className="nav-item">
                   <a href="./index3.html" className="nav-link active">
                     <i className="far fa-circle nav-icon" />
-                    <p>Dashboard v3</p>
+                    <p>Dashboard Style 3</p>
                   </a>
                 </li>
               </ul>
@@ -73,7 +73,7 @@ export default function Menu() {
               <a href="pages/widgets.html" className="nav-link">
                 <i className="nav-icon fas fa-th" />
                 <p>
-                  Widgets
+                  Campus
                   <span className="right badge badge-danger">New</span>
                 </p>
               </a>
@@ -82,7 +82,7 @@ export default function Menu() {
               <a href="#" className="nav-link">
                 <i className="nav-icon fas fa-copy" />
                 <p>
-                  Layout Options
+                  Nodes
                   <i className="fas fa-angle-left right" />
                   <span className="badge badge-info right">6</span>
                 </p>
@@ -145,7 +145,7 @@ export default function Menu() {
               <a href="#" className="nav-link">
                 <i className="nav-icon fas fa-chart-pie" />
                 <p>
-                  Charts
+                  Trends
                   <i className="right fas fa-angle-left" />
                 </p>
               </a>
@@ -174,7 +174,7 @@ export default function Menu() {
               <a href="#" className="nav-link">
                 <i className="nav-icon fas fa-tree" />
                 <p>
-                  UI Elements
+                  Sensor Info
                   <i className="fas fa-angle-left right" />
                 </p>
               </a>
@@ -233,7 +233,7 @@ export default function Menu() {
               <a href="#" className="nav-link">
                 <i className="nav-icon fas fa-edit" />
                 <p>
-                  Forms
+                  UoG Map
                   <i className="fas fa-angle-left right" />
                 </p>
               </a>
@@ -268,7 +268,7 @@ export default function Menu() {
               <a href="#" className="nav-link">
                 <i className="nav-icon fas fa-table" />
                 <p>
-                  Tables
+                  Schedules
                   <i className="fas fa-angle-left right" />
                 </p>
               </a>
@@ -293,12 +293,12 @@ export default function Menu() {
                 </li>
               </ul>
             </li>
-            <li className="nav-header">EXAMPLES</li>
+            <li className="nav-header">SENSOR MANAGEMENT</li>
             <li className="nav-item">
               <a href="pages/calendar.html" className="nav-link">
                 <i className="nav-icon fas fa-calendar-alt" />
                 <p>
-                  Calendar
+                  Location
                   <span className="badge badge-info right">2</span>
                 </p>
               </a>
@@ -306,14 +306,14 @@ export default function Menu() {
             <li className="nav-item">
               <a href="pages/gallery.html" className="nav-link">
                 <i className="nav-icon far fa-image" />
-                <p>Gallery</p>
+                <p>Battery</p>
               </a>
             </li>
             <li className="nav-item has-treeview">
               <a href="#" className="nav-link">
                 <i className="nav-icon far fa-envelope" />
                 <p>
-                  Mailbox
+                  Uptime
                   <i className="fas fa-angle-left right" />
                 </p>
               </a>
@@ -342,7 +342,7 @@ export default function Menu() {
               <a href="#" className="nav-link">
                 <i className="nav-icon fas fa-book" />
                 <p>
-                  Pages
+                  Stats
                   <i className="fas fa-angle-left right" />
                 </p>
               </a>
@@ -501,25 +501,25 @@ export default function Menu() {
                 </li>
               </ul>
             </li>
-            <li className="nav-header">MISCELLANEOUS</li>
+            <li className="nav-header">ANALYTICS</li>
             <li className="nav-item">
               <a href="https://adminlte.io/docs/3.0" className="nav-link">
                 <i className="nav-icon fas fa-file" />
                 <p>Documentation</p>
               </a>
             </li>
-            <li className="nav-header">MULTI LEVEL EXAMPLE</li>
+            <li className="nav-header">FUTURE IMPROVEMENTS</li>
             <li className="nav-item">
               <a href="#" className="nav-link">
                 <i className="fas fa-circle nav-icon" />
-                <p>Level 1</p>
+                <p>Release 1</p>
               </a>
             </li>
             <li className="nav-item has-treeview">
               <a href="#" className="nav-link">
                 <i className="nav-icon fas fa-circle" />
                 <p>
-                  Level 1
+                  Release 2
                   <i className="right fas fa-angle-left" />
                 </p>
               </a>
@@ -570,10 +570,10 @@ export default function Menu() {
             <li className="nav-item">
               <a href="#" className="nav-link">
                 <i className="fas fa-circle nav-icon" />
-                <p>Level 1</p>
+                <p>Release 3</p>
               </a>
             </li>
-            <li className="nav-header">LABELS</li>
+            <li className="nav-header">PRIVACY AND SECURITY</li>
             <li className="nav-item">
               <a href="#" className="nav-link">
                 <i className="nav-icon far fa-circle text-danger" />
